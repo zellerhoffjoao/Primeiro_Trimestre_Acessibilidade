@@ -11,4 +11,4 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - ScrollRevealjs
 - HTML
 - CSS
-# JS
+- JS
